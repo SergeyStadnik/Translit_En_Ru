@@ -19,4 +19,15 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Ru.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="En.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="New.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
